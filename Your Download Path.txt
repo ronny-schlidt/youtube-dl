@@ -1,0 +1,6 @@
+path = None
+
+#↑↑↑↑↑↑↑↑
+#You can set your own Download path, Example:
+#path = C:\Users\name\Music
+#default path(None): ... /Youtube-DL/Downloads
